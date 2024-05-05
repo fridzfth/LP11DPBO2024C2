@@ -1,5 +1,5 @@
 # README: LP11DPBO2024C2
-**Saya Mohammad Faridz Fathin [2202680] mengerjakan UTS dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.**
+**Saya Mohammad Faridz Fathin [2202680] mengerjakan LP11 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.**
 
 ## Desain Program
 
